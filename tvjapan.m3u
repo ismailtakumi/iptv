@@ -1,0 +1,121 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax JP" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" group-title="Animation",Animax JP
+http://redlabmcdn.s.llnwi.net/jp04/bs14hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Animax (Indonesian Subs)" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" group-title="Animation",Animax (Indonesian Subs)
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Aniplus (Indonesian Subs)" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1506915616_aniplus-artcard.jpg" group-title="Animation",Aniplus (Indonesian Subs)
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-id="ATX.jp" tvg-name="AT-X" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="Animation",AT-X
+https://sub2.neetball.net/live/neet.m3u8
+
+
+#EXTINF:-1 tvg-id="DisneyChannelJapan.us" tvg-name="Disney Channel Japan" tvg-country="JP" tvg-language="Japan" tvg-logo="https://i.imgur.com/H2O9F2E.png" group-title="Animation",Disney Channel Japan
+https://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.m3u8
+
+
+#EXTINF:-1 tvg-id="BS12.jp" tvg-name="BS 12" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.japan-programcatalog.com/japacon/open/open-sales-company!image?tsid=147&imageNumber=1&id=2" group-title="General",BS 12
+http://redlabmcdn.s.llnwi.net/jp04/bs08hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://gazetausa.com/wp-content/uploads/2016/08/BS-ASAHI-5.jpg" group-title="General",BS Asahi
+http://redlabmcdn.s.llnwi.net/jp04/bs04hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BSFujiTV.jp" tvg-name="BS Fuji TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i0.wp.com/www.audioworkshop.jp/wordpress/wp-content/uploads/2020/03/22-BS-FUJI-770x480.jpg?fit=770%2C480" group-title="General",BS Fuji TV
+http://redlabmcdn.s.llnwi.net/jp04/bs07hd/playlist.m3u8
+#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-name="BS Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://qvc.jp/content/dam/qvc-commerce/jp/information/teiha/bsntv.gif" group-title="General",BS Nippon TV
+http://redlabmcdn.s.llnwi.net/jp04/bs03hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-name="BS TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="http://yvpub-pctr.c.yimg.jp/dk/yvpub-bucket001-west/contents/yvpub-content-6866e8e50f506338b31e1cbf2535ca30/channel/56067T2S0zphY.jpg" group-title="General",BS TV Tokyo
+http://redlabmcdn.s.llnwi.net/jp04/bs06hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-name="BS-TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://img.paravi.jp/files/beb641120ade4b4b954dfdd6b5a9bfc9/92432433990.jpg" group-title="General",BS-TBS
+http://redlabmcdn.s.llnwi.net/jp04/bs05hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/tokyo_broadcasting_system_2020_logo.jpg" group-title="General",TBS
+http://redlabmcdn.s.llnwi.net/jp04/ryowa5hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="General",Tokyo MX1
+http://redlabmcdn.s.llnwi.net/jp04/ryowa8hd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-name="Tokyo MX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="General",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 tvg-id="TVAsahi1.jp" tvg-name="TV Asahi" tvg-country="JP" tvg-language="" tvg-logo="https://www.jpvisitor.com/images/content/20171017/4c4dc411a7fcd375.png" group-title="General",TV Asahi
+http://redlabmcdn.s.llnwi.net/jp04/ryowa4hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="General",TV Tokyo
+http://redlabmcdn.s.llnwi.net/jp04/ryowa6hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-name="Fuji TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/fujitv12.png" group-title="General",Fuji TV
+http://redlabmcdn.s.llnwi.net/jp04/ryowa7hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBS.jp" tvg-name="MBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/8-MBS-770x480.jpg" group-title="General",MBS
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKE.jp" tvg-name="NHK E" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKEテレロゴ2020-.png" group-title="General",NHK E
+http://redlabmcdn.s.llnwi.net/jp04/ryowa1hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKG.jp" tvg-name="NHK G 480p" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK総合ロゴ2020-.png" group-title="General",NHK G 480p
+http://redlabmcdn.s.llnwi.net/jp04/ryowa2hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK G 560p" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK総合ロゴ2020-.png" group-title="General",NHK G 560p
+https://nhk.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nippon_tv_logo_2014.png" group-title="General",Nippon TV
+http://redlabmcdn.s.llnwi.net/jp04/ryowa3hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-name="NHK BS1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1ロゴ2020-.png" group-title="General",NHK BS1
+http://redlabmcdn.s.llnwi.net/jp04/bs01hd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="NHKBSP.jp" tvg-name="NHK BSP" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BSプレミアム_新ロゴ.png" group-title="General",NHK BSP
+http://redlabmcdn.s.llnwi.net/jp04/bs02hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GunmaTV.jp" tvg-name="Gunma TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="General",Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+
+
+#EXTINF:-1 tvg-id="JSports1.jp" tvg-name="J Sports 1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png" group-title="Sports",J Sports 1
+http://redlabmcdn.s.llnwi.net/jp04/bs15hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JSports2.jp" tvg-name="J Sports 2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="Sports",J Sports 2
+http://redlabmcdn.s.llnwi.net/jp04/bs11hd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-name="New Japan Pro Wrestling World" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sports",New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+
+
+#EXTINF:-1 tvg-id="GSTV.jp" tvg-name="GSTV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/8AM9fC8.jpg" group-title="Shop",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="QVCJapan.us" tvg-name="QVC Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="Shop",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Shop",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Star1.jp" tvg-name="Star 1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png" group-title="Movie",Star 1
+http://redlabmcdn.s.llnwi.net/jp04/bs09hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Star2.jp" tvg-name="Star 2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png" group-title="Movie",Star 2
+http://redlabmcdn.s.llnwi.net/jp04/bs10hd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="HiroshimaWeatherInformation.jp" tvg-name="Hiroshima Weather Information" tvg-country="JP" tvg-language="" tvg-logo="https://i.imgur.com/ZoYNgdd.png" group-title="Weather",Hiroshima Weather Information
+https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNews.jp" tvg-name="Weather News" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-name="Nippon TV News 24" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.ntv.co.jp/englishnews/images/ogp.png" group-title="News",Nippon TV News 24
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan 720p" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World Japan 720p
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKWORLDTV.jp" tvg-name="NHK World Japan 1080p" tvg-country="JP" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World Japan 1080p
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
